@@ -20,7 +20,7 @@ The main findings in this README combine all available terms. Users can use the 
 
 ## Power BI Dashboard
 
-[Download the Power BI dashboard (.pbix)](https://raw.githubusercontent.com/clairengo02/Pioneer-Education-Performance-Dashboard/main/Pioneer%20edu%20dashboard.pbix)
+[Download the Power BI dashboard (.pbix)](https://raw.githubusercontent.com/clairengo02/Education-Career-Success/main/Education%20Career%20Success%20Power%20BI%20dashboard.pbix)
 
 > Microsoft Power BI Desktop is required to open the PBIX file.
 
