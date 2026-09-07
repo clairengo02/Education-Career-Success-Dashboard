@@ -21,7 +21,7 @@ The dashboard contains **400 students** and can be filtered by age, gender, and 
 
 ## Power BI Dashboard
 
-[Download the Power BI dashboard (.pbix)](Education%20Career%20Success.pbix)
+[Download the Power BI dashboard (.pbix)](https://raw.githubusercontent.com/clairengo02/Education-Career-Success/main/Education%20Career%20Success%20Power%20BI%20dashboard.pbix)
 
 > Microsoft Power BI Desktop is required to open the PBIX file.
 
