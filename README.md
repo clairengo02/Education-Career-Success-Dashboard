@@ -62,7 +62,7 @@ This section summarises graduate employment and career-quality outcomes.
 - Average Career Satisfaction
 - Average Work-Life Balance
 
-![Education Career Success Dashboard](Education%20Career%20Success.png)
+![Education Career Success Dashboard](Education%20Career%20Success.png?v=2)
 
 ### Interactive filters
 
