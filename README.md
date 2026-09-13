@@ -70,7 +70,6 @@ The dashboard can be explored using:
 
 - Age
 - Gender
-- Student ID
 
 The visuals cross-filter one another, allowing users to investigate specific student groups and individual records.
 
