@@ -102,7 +102,7 @@ Key preparation activities included:
 - Assigning appropriate text, whole-number, decimal, and currency data types
 - Standardising categorical values such as gender, field of study, and internship level
 - Creating identifiers to connect related records
-- Separating student, education, development, and career information into related tables
+- Separating student, education, development, and career information into related tables (3NF)
 - Restructuring development-activity fields for category-based analysis
 - Creating a numeric sort column to display internship levels as Low, Medium, and High
 - Creating measures and calculated fields required for dashboard analysis
