@@ -95,17 +95,17 @@ The visuals cross-filter one another, allowing users to investigate specific stu
 
 Power Query was used to clean and transform the dataset before analysis.
 
-Key preparation activities included:
+**Key preparation activities included:**
 
-- Correcting column names and removing unnecessary spaces
-- Checking blank values and duplicate student records
-- Assigning appropriate text, whole-number, decimal, and currency data types
-- Standardising categorical values such as gender, field of study, and internship level
-- Creating identifiers to connect related records
-- Separating student, education, development, and career information into related tables (3NF)
-- Restructuring development-activity fields for category-based analysis
-- Creating a numeric sort column to display internship levels as Low, Medium, and High
-- Creating measures and calculated fields required for dashboard analysis
+- Checked for blank values, duplicate student records, inconsistent column names, and unnecessary spaces. The Kaggle dataset was already relatively clean, so these checks were mainly performed to validate overall data quality.
+- Assigned appropriate data types, including text, whole number, decimal, and currency.
+- Standardised categorical values such as gender, field of study, and internship level.
+- Unpivoted five development-related columns — Soft Skills, Certifications, Networking, Projects, and Internships — into a single structure to support category-based analysis and comparison of student development activities.
+- Created unique identifiers to connect related records across tables.
+- Normalised the dataset into Third Normal Form (3NF) by separating student, education, development, and career information into related tables.
+- Created a numeric sort column to display internship levels in the correct order: Low, Medium, High.
+- Created calculated fields and DAX measures required for dashboard analysis.
+- Created a separate Field of Study table and removed duplicate values so that only the distinct study categories were retained, including Art, Business, Computer Science, Education, Engineering, Finance, Law, Marketing, Medicine, and Psychology.
 
 ## Data Model
 
